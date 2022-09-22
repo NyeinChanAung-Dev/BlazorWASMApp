@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\nyeinchanaung\Desktop\Blazor pj\BlazorWASMApp\BlazorWASMApp\Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\nyeinchanaung\Desktop\Blazor pj\BlazorWASMApp\BlazorWASMApp\Client\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="C:\Users\nyeinchanaung\Desktop\Blazor pj\BlazorWASMApp\BlazorWASMApp\Client\wwwroot\" />
+</StaticWebAssets>

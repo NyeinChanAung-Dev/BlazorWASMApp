@@ -1,0 +1,12 @@
+C:\Users\nyeinchanaung\Desktop\Blazor pj\BlazorWASMApp\BlazorWASMApp\Shared\bin\Debug\net5.0\BlazorWASMApp.Shared.deps.json
+C:\Users\nyeinchanaung\Desktop\Blazor pj\BlazorWASMApp\BlazorWASMApp\Shared\bin\Debug\net5.0\BlazorWASMApp.Shared.dll
+C:\Users\nyeinchanaung\Desktop\Blazor pj\BlazorWASMApp\BlazorWASMApp\Shared\bin\Debug\net5.0\BlazorWASMApp.Shared.pdb
+C:\Users\nyeinchanaung\Desktop\Blazor pj\BlazorWASMApp\BlazorWASMApp\Shared\obj\Debug\net5.0\BlazorWASMApp.Shared.csproj.AssemblyReference.cache
+C:\Users\nyeinchanaung\Desktop\Blazor pj\BlazorWASMApp\BlazorWASMApp\Shared\obj\Debug\net5.0\BlazorWASMApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyeinchanaung\Desktop\Blazor pj\BlazorWASMApp\BlazorWASMApp\Shared\obj\Debug\net5.0\BlazorWASMApp.Shared.AssemblyInfoInputs.cache
+C:\Users\nyeinchanaung\Desktop\Blazor pj\BlazorWASMApp\BlazorWASMApp\Shared\obj\Debug\net5.0\BlazorWASMApp.Shared.AssemblyInfo.cs
+C:\Users\nyeinchanaung\Desktop\Blazor pj\BlazorWASMApp\BlazorWASMApp\Shared\obj\Debug\net5.0\BlazorWASMApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\nyeinchanaung\Desktop\Blazor pj\BlazorWASMApp\BlazorWASMApp\Shared\obj\Debug\net5.0\BlazorWASMApp.Shared.dll
+C:\Users\nyeinchanaung\Desktop\Blazor pj\BlazorWASMApp\BlazorWASMApp\Shared\obj\Debug\net5.0\refint\BlazorWASMApp.Shared.dll
+C:\Users\nyeinchanaung\Desktop\Blazor pj\BlazorWASMApp\BlazorWASMApp\Shared\obj\Debug\net5.0\BlazorWASMApp.Shared.pdb
+C:\Users\nyeinchanaung\Desktop\Blazor pj\BlazorWASMApp\BlazorWASMApp\Shared\obj\Debug\net5.0\ref\BlazorWASMApp.Shared.dll
